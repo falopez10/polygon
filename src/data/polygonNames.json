@@ -1,0 +1,307 @@
+[
+    {
+        "name": "No sides"
+    },
+    {
+        "name": "henagon"
+    },
+    {
+        "name": "digon"
+    },
+    {
+        "name": "trigon",
+        "commonName": "triangle"
+    },
+    {
+        "name": "tetragon",
+        "commonName": "quadrilateral"
+    },
+    {
+        "name": "pentagon"
+    },
+    {
+        "name": "hexagon"
+    },
+    {
+        "name": "heptagon"
+    },
+    {
+        "name": "octagon"
+    },
+    {
+        "name": "enneagon"
+    },
+    {
+        "name": "decagon"
+    },
+    {
+        "name": "hendecagon"
+    },
+    {
+        "name": "dodecagon"
+    },
+    {
+        "name": "tridecagon"
+    },
+    {
+        "name": "tetradecagon"
+    },
+    {
+        "name": "pentadecagon"
+    },
+    {
+        "name": "hexadecagon"
+    },
+    {
+        "name": "heptadecagon"
+    },
+    {
+        "name": "octadecagon"
+    },
+    {
+        "name": "enneadecagon"
+    },
+    {
+        "name": "icosagon"
+    },
+    {
+        "name": "icosikaihenagon"
+    },
+    {
+        "name": "icosikaidigon"
+    },
+    {
+        "name": "icosikaitrigon"
+    },
+    {
+        "name": "icosikaitetragon"
+    },
+    {
+        "name": "icosikaipentagon"
+    },
+    {
+        "name": "icosikaihexagon"
+    },
+    {
+        "name": "icosikaiheptagon"
+    },
+    {
+        "name": "icosikaioctagon"
+    },
+    {
+        "name": "icosikaienneagon"
+    },
+    {
+        "name": "triacontagon"
+    },
+    {
+        "name": "triacontakaihenagon"
+    },
+    {
+        "name": "triacontakaidigon"
+    },
+    {
+        "name": "triacontakaitrigon"
+    },
+    {
+        "name": "triacontakaitetragon"
+    },
+    {
+        "name": "triacontakaipentagon"
+    },
+    {
+        "name": "triacontakaihexagon"
+    },
+    {
+        "name": "triacontakaiheptagon"
+    },
+    {
+        "name": "triacontakaioctagon"
+    },
+    {
+        "name": "triacontakaienneagon"
+    },
+    {
+        "name": "tetracontagon"
+    },
+    {
+        "name": "tetracontakaihenagon"
+    },
+    {
+        "name": "tetracontakaidigon"
+    },
+    {
+        "name": "tetracontakaitrigon"
+    },
+    {
+        "name": "tetracontakaitetragon"
+    },
+    {
+        "name": "tetracontakaipentagon"
+    },
+    {
+        "name": "tetracontakaihexagon"
+    },
+    {
+        "name": "tetracontakaiheptagon"
+    },
+    {
+        "name": "tetracontakaioctagon"
+    },
+    {
+        "name": "tetracontakaienneagon"
+    },
+    {
+        "name": "pentacontagon"
+    },
+    {
+        "name": "pentacontakaihenagon"
+    },
+    {
+        "name": "pentacontakaidigon"
+    },
+    {
+        "name": "pentacontakaitrigon"
+    },
+    {
+        "name": "pentacontakaitetragon"
+    },
+    {
+        "name": "pentacontakaipentagon"
+    },
+    {
+        "name": "pentacontakaihexagon"
+    },
+    {
+        "name": "pentacontakaiheptagon"
+    },
+    {
+        "name": "pentacontakaioctagon"
+    },
+    {
+        "name": "pentacontakaienneagon"
+    },
+    {
+        "name": "hexacontagon"
+    },
+    {
+        "name": "hexacontakaihenagon"
+    },
+    {
+        "name": "hexacontakaidigon"
+    },
+    {
+        "name": "hexacontakaitrigon"
+    },
+    {
+        "name": "hexacontakaitetragon"
+    },
+    {
+        "name": "hexacontakaipentagon"
+    },
+    {
+        "name": "hexacontakaihexagon"
+    },
+    {
+        "name": "hexacontakaiheptagon"
+    },
+    {
+        "name": "hexacontakaioctagon"
+    },
+    {
+        "name": "hexacontakaienneagon"
+    },
+    {
+        "name": "heptacontagon"
+    },
+    {
+        "name": "heptacontakaihenagon"
+    },
+    {
+        "name": "heptacontakaidigon"
+    },
+    {
+        "name": "heptacontakaitrigon"
+    },
+    {
+        "name": "heptacontakaitetragon"
+    },
+    {
+        "name": "heptacontakaipentagon"
+    },
+    {
+        "name": "heptacontakaihexagon"
+    },
+    {
+        "name": "heptacontakaiheptagon"
+    },
+    {
+        "name": "heptacontakaioctagon"
+    },
+    {
+        "name": "heptacontakaienneagon"
+    },
+    {
+        "name": "octacontagon"
+    },
+    {
+        "name": "octacontakaihenagon"
+    },
+    {
+        "name": "octacontakaidigon"
+    },
+    {
+        "name": "octacontakaitrigon"
+    },
+    {
+        "name": "octacontakaitetragon"
+    },
+    {
+        "name": "octacontakaipentagon"
+    },
+    {
+        "name": "octacontakaihexagon"
+    },
+    {
+        "name": "octacontakaiheptagon"
+    },
+    {
+        "name": "octacontakaioctagon"
+    },
+    {
+        "name": "octacontakaienneagon"
+    },
+    {
+        "name": "enneacontagon"
+    },
+    {
+        "name": "enneacontakaihenagon"
+    },
+    {
+        "name": "enneacontakaidigon"
+    },
+    {
+        "name": "enneacontakaitrigon"
+    },
+    {
+        "name": "enneacontakaitetragon"
+    },
+    {
+        "name": "enneacontakaipentagon"
+    },
+    {
+        "name": "enneacontakaihexagon"
+    },
+    {
+        "name": "enneacontakaiheptagon"
+    },
+    {
+        "name": "enneacontakaioctagon"
+    },
+    {
+        "name": "enneacontakaienneagon"
+    },
+    {
+        "name": "hectogon"
+    }
+]

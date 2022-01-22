@@ -1,46 +1,20 @@
-# Getting Started with Create React App
+# Polygon
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Polygon is a simple app that lets you draw and discover your polygon name
+## Author
 
-## Available Scripts
+Fabio Andrés López Corredor.
+## Let me see it!
 
-In the project directory, you can run:
+Just [go to my website](https://polygon-856a1.web.app/)
 
-### `npm start`
+## Technologies used
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+* **[React](https://reactjs.org/)**: My favorite javascript library so far. I am fond of frameworks like angular as well, but to me react is simply easier to use and faster to work with.
+* **[Typescript](https://www.typescriptlang.org/)**: Really simple to use and to learn either if you know JS or not.
+* **[Material-ui](https://material-ui.com/)**: As I love tweaking my apps with CSS and native resources, I recomend this highly-customizable library to save time developing react apps. It comes with [jss](https://cssinjs.org/)-like syntax which lets the developer use powerful SCSS features.
+* **CSS**: Although I see advantage in tools like [SASS](https://sass-lang.com/), I believe the language used for styling will keep being the standard in web development, and CSS itself is really useful for small projects.
+* **[Firebase hosting](https://firebase.google.com/)**: Currently I serve the webpage on firebase hosting. 
+* **[Github actions](https://github.com/features/actions)**: The basic build and deployment is executed from github servers via github actions.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+*Made by Fabio. From Colombia, for the 🌍*
