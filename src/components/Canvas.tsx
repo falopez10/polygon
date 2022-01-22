@@ -53,7 +53,7 @@ export const Canvas: FC = () => {
     }
 
     return <div style={{ display: "flex", flexDirection: "column", justifyContent: "flex-start", alignItems: "center" }}>
-        <svg style={{ margin: 16, width: "80%", height: "400" }}>
+        <svg style={{ margin: 16, width: "80%", height: "400px" }}>
             <rect ref={rectEl} width="100%" height="100%" style={{
                 fill: "#DDDDDD",
                 strokeWidth: 5,
