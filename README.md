@@ -6,7 +6,9 @@ Polygon is a minimalistic app that lets you draw and discover your polygon name
 Fabio Andrés López Corredor.
 ## Let me see it!
 
-Just go to [polygon app](https://polygon-856a1.firebaseapp.com/)
+Just go to [polygon app](https://polygon-856a1.firebaseapp.com/).
+
+If you want you can check the demo under this repo, *polygon-demo.gif*
 
 ## Technologies used
 
